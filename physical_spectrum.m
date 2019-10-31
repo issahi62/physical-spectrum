@@ -1,5 +1,11 @@
 %***************************
 %% INITIALIZING 
+
+% Physical Spectrum measured using an Etalon
+%********************************************
+%% Developed by Ibrahim Issah 
+% University of Eastern Finland 
+
 %**************************
 close all 
 clc 
